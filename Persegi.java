@@ -9,8 +9,7 @@ import java.util.Scanner;
 
      for (int a=1; a<=bo; a++){
      	for(int j=1; j<=a; j++){
-     	// System.out.println(a);
-     		//okey
+    //yelow
 
 System.out.print(j);
      }
