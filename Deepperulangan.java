@@ -7,7 +7,7 @@ public static void main(String[] args){
 	System.out.println("Saya Minta maaf, saya lebih rajin dan tidak bolos lagi");
 	System.out.println("Saya Minta maaf, saya lebih rajin dan tidak bolos lagi");
 
-
+//ssss
 	System.out.println("======================================================");
 
 	Integer times =100;
