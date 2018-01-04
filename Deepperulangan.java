@@ -5,7 +5,7 @@ public static void main(String[] args){
 	System.out.println("Saya Minta maaf, saya lebih rajin dan tidak bolos lagi");
 	System.out.println("Saya Minta maaf, saya lebih rajin dan tidak bolos lagi");
 	System.out.println("Saya Minta maaf, saya lebih rajin dan tidak bolos lagi");
-	System.out.println("Saya Minta maaf, saya lebih rajin dan tidak bolos lagi");//dsdsdsdsdsds
+	System.out.println("Saya Minta maaf, saya lebih rajin dan tidak bolos lagi");//dsdsds
 
 //ssss
 	System.out.println("======================================================");
