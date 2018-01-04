@@ -9,7 +9,7 @@ import java.util.Scanner;
 
      for (int a=1; a<=bo; a++){
      	for(int j=1; j<=a; j++){
-    //yelow gggg
+    //yelow ggggasasasasasasas
 
 System.out.print(j);
      }
